@@ -1,0 +1,7 @@
+{
+    "name":["Bleach-TYBW","Attack-On-Titan","Jujutsu-Kaisen","Nana"],
+    "wideimg":["banner_1.png","banner_2.png","banner_3.png","banner_4.png"],
+    "Logo":["logo_1.png","logo_2.png","logo_3.png","logo_4.png"],
+    "Description":["desc_1.txt","desc_2.txt","desc_3.txt","desc_4.txt"],
+    "video":["banner_1.mp4","banner_2.mp4","banner_3.mp4","banner_4.mp4"]
+}
